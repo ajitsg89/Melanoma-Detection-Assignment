@@ -7,7 +7,7 @@ the potential to reduce a lot of manual effort needed in diagnosis.
 
 
 ## General Information
-- Multiclass classification model using a custom convolutional neural network in TensorFlow. 
+Multiclass classification model using a custom convolutional neural network in TensorFlow. 
 
 ### Algorithms Used
 
