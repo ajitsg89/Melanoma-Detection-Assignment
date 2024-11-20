@@ -50,7 +50,7 @@ Augmenting the data and countering class imbalance helped in improving the accur
 Give credit here.
 - This project was inspired by UpGrad Team
 - References if any: None
-- This project was based on EDA, Machine Learning modules
+- This project was based on EDA, Machine Learning modules, CNN
 
 
 ## Contact
