@@ -29,6 +29,22 @@ The data set contains the following diseases:
 - Squamous cell carcinoma
 - Vascular lesion
 
+## Results
+
+### Baseline Model
+
+Accuracy and Loss charts for the baseline model
+
+
+### Augmented Model
+
+Accuracy and Loss charts for the augmented model
+
+
+### Final Model
+
+Accuracy and Loss charts for the final model
+
 
 ## Conclusions
 As the accuracy of the model increases, the loss decreases. The final model has an accuracy of 87% and a loss of 0.3. The model is able to predict the class of the lesion with a high accuracy.
