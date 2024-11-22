@@ -31,20 +31,23 @@ The data set contains the following diseases:
 
 ## Results
 
+### Image count in each class
+![4](https://github.com/user-attachments/assets/de072265-ffd5-4899-a027-b3e24325d3b9)
+
 ### Baseline Model
 
 Accuracy and Loss charts for the baseline model
-![Alt text](file:///G:/Upgrad/ML_C64_PGD/Melanoma%20Detection%20Assignment/Final_Submission/1.PNG)
-
+![1](https://github.com/user-attachments/assets/b83923de-927c-492b-8c20-7ab0e1c686be)
 
 ### Augmented Model
 
 Accuracy and Loss charts for the augmented model
-
+![2](https://github.com/user-attachments/assets/3e51849d-e9b9-405e-bacb-aceac94c9eb2)
 
 ### Final Model
 
 Accuracy and Loss charts for the final model
+![3](https://github.com/user-attachments/assets/bd7b9815-bc43-4394-925d-5699e8a16bdc)
 
 
 ## Conclusions
