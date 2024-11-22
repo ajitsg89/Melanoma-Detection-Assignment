@@ -47,7 +47,7 @@ Accuracy and Loss charts for the final model
 
 
 ## Conclusions
-As the accuracy of the model increases, the loss decreases. The final model has an accuracy of 87% and a loss of 0.3. The model is able to predict the class of the lesion with a high accuracy.
+As the accuracy of the model increases, the loss decreases. The final model has 92% train and 89% validation accuracy. The model is able to predict the class of the lesion with a high accuracy.
 Augmenting the data and countering class imbalance helped in improving the accuracy of the model.
 
 
