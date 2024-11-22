@@ -34,7 +34,7 @@ The data set contains the following diseases:
 ### Baseline Model
 
 Accuracy and Loss charts for the baseline model
-![Alt text](1.png)
+![Alt text](G:\Upgrad\ML_C64_PGD\Melanoma Detection Assignment\Final_Submission\1.png)
 
 
 ### Augmented Model
