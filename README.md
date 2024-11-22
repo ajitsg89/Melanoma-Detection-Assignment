@@ -47,6 +47,7 @@ Accuracy and Loss charts for the augmented model
 ### Final Model
 
 Accuracy and Loss charts for the final model
+
 ![3](https://github.com/user-attachments/assets/bd7b9815-bc43-4394-925d-5699e8a16bdc)
 
 
